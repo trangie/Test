@@ -1,0 +1,53 @@
+body{
+	background: grey;
+	width: 500px;
+	margin: 200px auto;
+}
+
+div{
+	border: 10px solid blue;
+	text-align: center;
+	padding: 100px;
+	text-decoration: bold;
+}
+
+p{
+	border: 2px dashed pink;
+}
+
+h1{
+	background: black;
+	color:white;
+}
+
+p.first{
+	color: red;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+p.second{
+
+	color: cyan;
+	margin: 20px;
+	padding: 50px;
+	text-align: center;
+}
+
+div.test{
+	text-align: :center;
+}
+
+a{
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited{
+	color: tomato;
+}
+
+a:hover{
+	text-decoration: underline;
+}

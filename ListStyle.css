@@ -1,0 +1,17 @@
+ol{
+	border: 5px solid darksalmon;
+	border-radius: 10px;
+}
+
+.content li{
+	color:blue;
+}
+
+li:first-child{
+	 background: yellow;
+}
+
+li:nth-child(3){
+
+	background: green;
+}

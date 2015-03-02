@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+	<link href="ListStyle.css" rel = "stylesheet" type="text/css">
+
+	<body>
+		<h1> Hello Wolrd!</h1>
+
+	<div class="content">
+		<ol>
+			<li>List Item <span class="number">First</span></li>
+			<li>List Item <span class="number">Second</span></li>
+			<li>List Item <span class="number">Third</span></li>
+		</ol>
+
+		<p>This is the <span>first</span> paragraph.</p>
+
+		<p>This is the <span>second</span> paragraph.</p>
+
+	</div>
+
+	<ul>
+		<li>List Item <span class="number">1</span></li>
+		<li>List Item <span class="number">2</span></li>
+		<li>List Item <span class="number">3</span></li>
+	</ul>
+	</body>
+
+</html>
